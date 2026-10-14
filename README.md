@@ -1,5 +1,5 @@
 # FlipItNews Classifier
-
+ view it here - > https://yaseeensk78766666.streamlit.app/
 An end-to-end Natural Language Processing (NLP) project for automatically categorizing Indian news articles. This project is designed to help FlipItNews organize content more efficiently, improve search and discovery, and support personalized news delivery.
 
 ## Problem Statement
